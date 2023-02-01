@@ -7,7 +7,10 @@ This compendium was compiled and formatted with the following two compendiums an
 - earlSt1's [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)
 - KayelGee's [Moar Folders](https://github.com/KayelGee/moar-folders)
 
-When using Moar Folders, set folder depth to 5
+When using Moar Folders, set folder depth to 5. This will allow Thaumaturgy and Necromancy organization to remain when making available to players.
+
+# Manifest URL
+URL for compendium manifest: https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json
 
 ## Current Compendiums
 - VtM Core 20th Anniversary
