@@ -23,6 +23,13 @@
       "path": "./packs/V20-Compendium.db",
       "type": "Item",
       "system": "worldofdarkness"
+    },
+    {
+      "label": "WoD20-Actors",
+      "name": "WoD20-Actors",
+      "path": "./packs/WoD20-Actors.db",
+      "type": "Actor",
+      "system": "worldofdarkness"
     }
   ],
   "relationships": {
