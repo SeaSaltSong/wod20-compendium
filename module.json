@@ -50,7 +50,7 @@
       "label": "WoD20-RulesReference",
       "name": "WoD20-RulesReference",
       "path": "./packs/WoD20-RulesReference.db",
-      "type": "Journal",
+      "type": "JournalEntry",
       "system": "worldofdarkness"
     }
   ],
