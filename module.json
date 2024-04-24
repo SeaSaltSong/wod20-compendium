@@ -2,7 +2,7 @@
   "id": "wod20-compendium",
   "title": "WoD 20 Compendium",
   "description": "A module containing compendiums for WoD 20th anniversary edition",
-  "version": "1.0.6",
+  "version": "1.0.2",
   "library": "false",
   "compatibility": {
     "minimum": 10,
@@ -25,20 +25,37 @@
       "system": "worldofdarkness"
     },
     {
+      "label": "C20-Compendium",
+      "name": "C20-Compendium",
+      "path": "./packs/C20-Compendium.db",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+{
+      "label": "W20-Compendium",
+      "name": "W20-Compendium",
+      "path": "./packs/W20-Compendium.db",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+    {
       "label": "WoD20-Actors",
       "name": "WoD20-Actors",
       "path": "./packs/WoD20-Actors.db",
       "type": "Actor",
       "system": "worldofdarkness"
+    },
+
+    {
+      "label": "WoD20-RulesReference",
+      "name": "WoD20-RulesReference",
+      "path": "./packs/WoD20-RulesReference.db",
+      "type": "Journal",
+      "system": "worldofdarkness"
     }
   ],
   "relationships": {
     "requires": [
-      {
-        "id": "compendium-folders",
-        "type": "module",
-        "compatibility": {}
-      },
       {
         "id": "lib-wrapper",
         "type": "module",
