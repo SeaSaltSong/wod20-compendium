@@ -7,15 +7,16 @@ This compendium was compiled and formatted with the following two compendiums an
 - earlSt1's [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)
 - KayelGee's [Moar Folders](https://github.com/KayelGee/moar-folders)
 
-When using Moar Folders, set folder depth to 5. This will allow Thaumaturgy and Necromancy organization to remain when making available to players.
-
-# Manifest URL
-URL for compendium manifest: https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json
+When using Moar Folders, set folder depth to 5
 
 ## Current Compendiums
 - VtM Core 20th Anniversary
 - Select VtM Bloodline Disciplines
 - Select VtM Lore of the Clans content
+- Rules Reference Journal for VtM
+- CtD Core 20th Anniversary
+- Rules Reference Journal for CtD
+- WtA 20th Anniversary content [Provided by WattGrego. Unformated from thier original formatting]
 
 ## Planned
 I am working on compendiums for the games I am actively running/plan to run in the near future which influences the order of release. They are as follows:
@@ -24,12 +25,13 @@ I am working on compendiums for the games I am actively running/plan to run in t
 - VtM Core: Elder Disciplines
 - VtM - Lore of the Clans (Elder disciplines)
 - VtM - Rites of the Blood
-- CtD Core
 - MtA Core
 - MtA - How do you do that?
 - MtA - Book of Secrets
+- Rules Reference Journal for MtA
 
 Then in no particular order:
+- WtA Core [Formatting WattGrego's Contribution]
 - WtO Core
-- WtA Core
 - DtF Core ( ͡° ͜ʖ ͡°)
+- 
