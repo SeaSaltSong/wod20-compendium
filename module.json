@@ -2,11 +2,12 @@
   "id": "wod20-compendium",
   "title": "WoD 20 Compendium",
   "description": "A module containing compendiums for WoD 20th anniversary edition",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "library": "false",
   "compatibility": {
-    "minimum": 11,
-    "verified": 11
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
   },
   "authors": [
     {
@@ -19,15 +20,58 @@
     {
       "label": "V20-Compendium",
       "name": "V20-Compendium",
-      "path": "./packs/V20-Compendium.json",
+      "path": "./packs/V20-Compendium.db",
       "type": "Item",
       "system": "worldofdarkness"
+    },
+    {
+      "label": "Test",
+      "name": "Test",
+      "path": "./packs/Test.json",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+    {
+      "label": "C20-Compendium",
+      "name": "C20-Compendium",
+      "path": "./packs/C20-Compendium.db",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+{
+      "label": "W20-Compendium",
+      "name": "W20-Compendium",
+      "path": "./packs/W20-Compendium.db",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+    {
+      "label": "WoD20-Actors",
+      "name": "WoD20-Actors",
+      "path": "./packs/WoD20-Actors.db",
+      "type": "Actor",
+      "system": "worldofdarkness"
+    },
+
+    {
+      "label": "WoD20-RulesReference",
+      "name": "WoD20-RulesReference",
+      "path": "./packs/WoD20-RulesReference.db",
+      "type": "JournalEntry",
+      "system": "worldofdarkness"
     }
-  
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
   "url": "https://github.com/SeaSaltSong/wod20-compendium",
   "manifest": "https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json",
-  "download": "https://github.com/SeaSaltSong/wod20-compendium/releases/download/v1.0.3/module.zip",
-  "bugs": "https://github.com/SeaSaltSong/wod20-compendium/issues"
+  "download": "https://github.com/SeaSaltSong/wod20-compendium/releases/download/v1.0.2/module.zip",
+  "bugs": "https://github.com/pcdoyle/wod20-compendium/issues"
 }
