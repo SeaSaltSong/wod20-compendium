@@ -1,0 +1,99 @@
+{
+  "package": "wod20-compendium-test.V20-Compendium",
+  "metadata": {
+    "name": "V20-Compendium",
+    "label": "Test",
+    "path": "modules/wod20-compendium-test/packs/V20-Compendium",
+    "type": "Item",
+    "system": "worldofdarkness",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "flags": {},
+    "packageType": "module",
+    "packageName": "wod20-compendium-test",
+    "id": "wod20-compendium-test.V20-Compendium"
+  },
+  "type": "Item",
+  "items": [
+    {
+      "folder": "rrphoMENzJmTkXfC",
+      "name": "bANANA",
+      "type": "Bonus",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "iscreated": true,
+        "isactive": false,
+        "isvisible": true,
+        "version": "3.3.4",
+        "parentid": "",
+        "worldanvil": "",
+        "reference": "",
+        "description": "",
+        "details": "",
+        "property": [],
+        "bonuslist": [],
+        "type": "",
+        "level": "0",
+        "value": 0,
+        "max": 5,
+        "settingtype": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "systemId": "worldofdarkness",
+        "systemVersion": "3.3.4",
+        "coreVersion": "11.306",
+        "createdTime": 1713944011389,
+        "modifiedTime": 1713944030044,
+        "lastModifiedBy": "CZyj5tVpsqRvDFFc"
+      },
+      "_id": "qzPFVXKWPrw3KXcm"
+    },
+    {
+      "folder": "arj9gHZYQHU6Zxfa",
+      "name": "Apple",
+      "type": "Bonus",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "iscreated": true,
+        "isactive": false,
+        "isvisible": true,
+        "version": "3.3.4",
+        "parentid": "",
+        "worldanvil": "",
+        "reference": "",
+        "description": "",
+        "details": "",
+        "property": [],
+        "bonuslist": [],
+        "type": "",
+        "level": "0",
+        "value": 0,
+        "max": 5,
+        "settingtype": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "systemId": "worldofdarkness",
+        "systemVersion": "3.3.4",
+        "coreVersion": "11.306",
+        "createdTime": 1713944022163,
+        "modifiedTime": 1713944022342,
+        "lastModifiedBy": "CZyj5tVpsqRvDFFc"
+      },
+      "_id": "rDs2pm0glpjFkbkJ"
+    }
+  ],
+  "source": {
+    "world": "atlanta-by-night",
+    "system": "worldofdarkness",
+    "version": {
+      "core": "11.306",
+      "system": "3.3.4"
+    }
+  }
+}
