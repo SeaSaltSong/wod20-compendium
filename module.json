@@ -24,13 +24,6 @@
       "system": "worldofdarkness"
     },
     {
-      "label": "V20-Compendium-FOLDER",
-      "name": "V20-Compendium-FOLDER",
-      "path": "./packs/V20-Compendium-FOLDER.json",
-      "type": "Item",
-      "system": "worldofdarkness"
-    },
-    {
       "label": "Test",
       "name": "Test",
       "path": "./packs/Test.db",
@@ -66,15 +59,7 @@
       "type": "JournalEntry",
       "system": "worldofdarkness"
     }
-  ],
-  "relationships": {
-    "requires": [
-      {
-        "id": "lib-wrapper",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
+  ]
   },
   "url": "https://github.com/SeaSaltSong/wod20-compendium",
   "manifest": "https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json",
