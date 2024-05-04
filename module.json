@@ -2,12 +2,11 @@
   "id": "wod20-compendium",
   "title": "WoD 20 Compendium",
   "description": "A module containing compendiums for WoD 20th anniversary edition",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "library": "false",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "minimum": 11,
+    "verified": 11,
   },
   "authors": [
     {
@@ -25,9 +24,16 @@
       "system": "worldofdarkness"
     },
     {
+      "label": "V20-Compendium-FOLDER",
+      "name": "V20-Compendium-FOLDER",
+      "path": "./packs/V20-Compendium-FOLDER.json",
+      "type": "Item",
+      "system": "worldofdarkness"
+    },
+    {
       "label": "Test",
       "name": "Test",
-      "path": "./packs/Test.json",
+      "path": "./packs/Test.db",
       "type": "Item",
       "system": "worldofdarkness"
     },
@@ -38,7 +44,7 @@
       "type": "Item",
       "system": "worldofdarkness"
     },
-{
+    {
       "label": "W20-Compendium",
       "name": "W20-Compendium",
       "path": "./packs/W20-Compendium.db",
@@ -72,6 +78,6 @@
   },
   "url": "https://github.com/SeaSaltSong/wod20-compendium",
   "manifest": "https://raw.githubusercontent.com/SeaSaltSong/wod20-compendium/main/module.json",
-  "download": "https://github.com/SeaSaltSong/wod20-compendium/releases/download/v1.0.2/module.zip",
-  "bugs": "https://github.com/pcdoyle/wod20-compendium/issues"
+  "download": "https://github.com/SeaSaltSong/wod20-compendium/releases/download/v1.0.3/module.zip",
+  "bugs": "https://github.com/SeaSaltSong/wod20-compendium/issues"
 }
