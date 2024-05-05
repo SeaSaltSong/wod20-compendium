@@ -103,13 +103,6 @@
       "system": "worldofdarkness"
     },
     {
-      "label": "M20-Weapons-Clubs",
-      "name": "M20-Weapons-Clubs",
-      "path": "./packs/Grandsome/M20-Weapons-Clubs.db",
-      "type": "Item",
-      "system": "worldofdarkness"
-    },
-    {
       "label": "M20-Weapons-Firearms",
       "name": "M20-Weapons-Firearms",
       "path": "./packs/Grandsome/M20-Weapons-Firearms.db",
