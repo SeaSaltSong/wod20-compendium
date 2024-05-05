@@ -1,6 +1,5 @@
 # WoD20-Compendium
 A Compendium for use with JohanFalt's [WoD 20 system](https://github.com/JohanFalt/Foundry_WoD20) for Foundry
-Generated with kid1407's [Compendium2Module](https://github.com/kid2407/Compendium2Module)
 
 # Hotfix Notes - VERY IMPORTANT
 Foundry 11 introduced native support for compendium folders. This broke my previous methods of exporting compendiums for distribution here. You will notice that all previous compendiums are not organized in folders, and instead have everything dumped into the root compendium.
